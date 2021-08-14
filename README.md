@@ -7,3 +7,5 @@
 </div>
   
 ![Snake animation](https://github.com/AmandaBorgesES/AmandaBorgesES/blob/output/github-contribution-grid-snake.svg)
+  
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
