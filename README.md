@@ -1,4 +1,4 @@
-## Heyy!! it's Amanda 🤘🏽
+## it's Amanda
 
 <div>
   <a href="https://github.com/AmandaBorgesES">
