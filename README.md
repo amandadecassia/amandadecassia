@@ -1,4 +1,4 @@
-## it's Amanda
+## AMANDA BORGES
 
 <div>
   <a href="https://github.com/AmandaBorgesES">
