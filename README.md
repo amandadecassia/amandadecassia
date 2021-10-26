@@ -1,4 +1,4 @@
-## AMANDA BORGES
+## Amanda Borges
 
 <div>
   <a href="https://github.com/amandadecassia">
